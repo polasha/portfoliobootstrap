@@ -1,12 +1,12 @@
 # portfoliobootstrap 
 This website displays the student portfolio of work for a fictitous Jane Doe. It makes use of the bootstrap 3 framework. 
-The main file index.html is released to the public domain. View at https://profphillips.github.io/portfoliobootstrap/ .
+The main file index.html is released to the public domain. View at https://polasha.github.io/portfoliobootstrap/ .
 
 First, use your browser to fork a copy of portfoliobootstrap to your own github account:
 
 1. Use a web browser to log in to your github.com account.
 
-2. Use your browser to visit https://github.com/profphillips/portfoliobootstrap/ .
+2. Use your browser to visit https://github.com/polasha/portfoliobootstrap/ .
 
 3. Click on the Fork icon to copy this project to your github account and view it there.
 
