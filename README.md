@@ -50,4 +50,4 @@ Follow these steps to use your repository (assumes a Linux / Apache2 server with
 
 10. Use your web browser to verify that your updated files are in your GitHub repository.
 
-11. Use your web browser to visit https://youraccountname.github.io/portfoliobootstrap/ to see what your website looks like; for example, my example page is at https://profphillips.github.io/portfoliobootstrap/ .
+11. Use your web browser to visit https://youraccountname.github.io/portfoliobootstrap/ to see what your website looks like; for example, my example page is at https://polasha.github.io/portfoliobootstrap/ .
